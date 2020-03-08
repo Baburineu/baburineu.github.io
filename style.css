@@ -64,6 +64,8 @@ html, body {
     color: #ff6945;
     font-size: 60px;
     line-height: 1;
+
+    text-shadow: 2px 5px 4px rgba(200, 0, 80, 0.45);
 }
 
 .text {
