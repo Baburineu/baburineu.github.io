@@ -451,25 +451,26 @@ input {
 	background: none;
 	border: none;
 	border-bottom: 1px solid #ffffff;
-
 }
 
-input[placeholder] {
-	padding: 5px 0;
-	color: #ffffff;
-	font-size: 16px;
-	font-family: 'Poiret One', cursive;
-
+label {
+	position: relative;
+	top: 10px;
+	pointer-events: none;
+	transition: .5s;
 }
+
 
 button {
-	margin-top: 8px;
+	width: 85px;
+	margin: auto;
 
-	display: inline-block;
+	display: block;
 	justify-content: center;
 
 	font-family: 'Montserrat Alternates', sans-serif;
-	text-align: center;
+
+	cursor: pointer;
 }
 
 /* Footer
