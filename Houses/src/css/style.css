@@ -447,13 +447,13 @@ li {
 
 .form_info {
 	max-width: 436px;
-	padding: 0 50px 20px;
+	padding: 0 50px;
 	text-align: center;
 }
 
 .input-box {
 	position: relative;
-	margin-top: 30px;
+	margin-top: 40px;
 }
 
 input {
@@ -479,17 +479,17 @@ label {
 
 input:valid ~ label,
 input:focus ~ label {
-	top: -20px;
+	top: -25px;
 	left: 0;
 
 	font-size: 12px;
-	color: violet;
+	color: #D8AD47;
 	font-weight: 600;
 }
 
 input:focus,
 input:valid {
-	border-bottom: 2px solid violet;
+	border-bottom: 2px solid #D8AD47;
 }
 
 
