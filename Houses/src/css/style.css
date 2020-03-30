@@ -477,7 +477,7 @@ label {
 	transition: .5s;
 }
 
-label:valid ~ label,
+input:valid ~ label,
 input:focus ~ label {
 	top: -20px;
 	left: 0;
