@@ -149,6 +149,17 @@ h2 {
 	transition: box-shadow .4s linear;
 }
 
+.btn--submit {
+	display: block;
+	justify-content: center;
+	width: 85px;
+	margin: auto;
+
+	font-family: 'Montserrat Alternates', sans-serif;
+
+	cursor: pointer;
+}
+
 
 
 /* About us
@@ -440,6 +451,11 @@ li {
 	text-align: center;
 }
 
+.input-box {
+	position: relative;
+	margin-top: 30px;
+}
+
 input {
 	display: block;
 	max-width: 337px;
@@ -454,24 +470,29 @@ input {
 }
 
 label {
-	position: relative;
-	top: 10px;
+	position: absolute;
+	top: -5px;
+	left: 0;
 	pointer-events: none;
 	transition: .5s;
 }
 
+label:valid ~ label,
+input:focus ~ label {
+	top: -20px;
+	left: 0;
 
-button {
-	width: 85px;
-	margin: auto;
-
-	display: block;
-	justify-content: center;
-
-	font-family: 'Montserrat Alternates', sans-serif;
-
-	cursor: pointer;
+	font-size: 12px;
+	color: violet;
+	font-weight: 600;
 }
+
+input:focus,
+input:valid {
+	border-bottom: 2px solid violet;
+}
+
+
 
 /* Footer
 =================================================*/
