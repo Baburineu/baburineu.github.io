@@ -18,6 +18,7 @@ body{
 .container {
 	max-width: 1340px;
 	margin: 0 auto;
+	padding: 0 15px;
 
 	/*border: 1px dashed rgba(92, 175, 175, 0.31);*/
 }
@@ -168,7 +169,7 @@ h2 {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 35px 0 73px;
+	padding: 35px 15px 73px;
 }
 
 .about__box {
@@ -506,3 +507,7 @@ input:valid {
 
 	font-size: 12px;
 }
+
+
+/*Media
+=============================*/
