@@ -3,26 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="823029ea-0d90-4e34-a807-c3f6f30fc5be" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/Lilia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/favicons/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/favicons/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/favicons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/favicons/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/favicons/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/favicons/site.webmanifest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/petal-flower-rose.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/petal-flower-rose_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/petal-flower-tulip.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/petal-flower-tulip_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/petal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../img/valentines-day.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../js/typed.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,18 +44,37 @@
       <workItem from="1585325413979" duration="9383000" />
       <workItem from="1585558642804" duration="6297000" />
       <workItem from="1585595677067" duration="1158000" />
-      <workItem from="1589798507140" duration="337000" />
+      <workItem from="1589798507140" duration="13135000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added adaptive" />
+    <option name="LAST_COMMIT_MESSAGE" value="added adaptive" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="717" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589798637046">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="717" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589798637046" />
+    <state x="585" y="119" key="CommitChangelistDialog2" timestamp="1589818320648">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="585" y="119" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1589818320648" />
     <state x="461" y="167" key="SettingsEditor" timestamp="1585012805632">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
