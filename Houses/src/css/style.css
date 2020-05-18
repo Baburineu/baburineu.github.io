@@ -569,8 +569,11 @@ input:valid {
 @media screen and (max-width: 768px) {
 	/* Header
 	===============================================*/
-
-
+	
+	.project__house {
+		max-width: 718px;
+	}
+	
 	.contacts__left-box {
 		display: block;
 		max-width: 300px;
