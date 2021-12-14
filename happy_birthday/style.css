@@ -115,7 +115,7 @@ html, body {
     width: 320px;
     position: absolute;
     top: 80%;
-    right: -160px;
+    right: -300px;
     transition: all 4s ease-in-out;
 }
 
